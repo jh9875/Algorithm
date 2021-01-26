@@ -15,6 +15,7 @@ Java Algorithm and Data Structure Code
 - [Dynamic programming](src/algorithm/dynamic-programming)
 - [Greedy](src/algorithm/greedy)
 - [Math & Number](src/algorithm/math&number)
+  - [GCD & LCM](src/algorithm/math&number/gcd&lcm)
   - [Prime number](src/algorithm/math&number/prime-number)
 - [String](src/algorithm/string)
   - [KMP](src/algorithm/string/kmp)

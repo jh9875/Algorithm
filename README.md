@@ -10,18 +10,20 @@ Java Algorithm and Data Structure Code
 
 ## Algorithm
 
-- [Array](src/algorithm/array)
-- [Divide and conquer](src/algorithm/divide-and-conquer)
-- [Dynamic programming](src/algorithm/dynamic-programming)
-- [Greedy](src/algorithm/greedy)
-- [Math & Number](src/algorithm/math&number)
+- **Graphs**
+  - [Breadth-First Search](src/algorithm/graphs/breadth-first-search)
+  - [Depth-First Search](src/algorithm/graphs/depth-first-search)
+  - [Dijkstra](src/algorithm/graphs/dijkstra)
+
+- **Math & Number**
   - [GCD & LCM](src/algorithm/math&number/gcd&lcm)
   - [Prime number](src/algorithm/math&number/prime-number)
-- [String](src/algorithm/string)
+  
+- **String**
   - [KMP](src/algorithm/string/kmp)
 
 
 ## Data Structure
 
-- [Graph](src/data-structure/graph)
-- [Tree](src/data-structure/tree)
+- **Graph**
+- **Tree**

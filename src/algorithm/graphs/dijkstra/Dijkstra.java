@@ -5,12 +5,17 @@ import java.util.PriorityQueue;
 
 public class Dijkstra {
 	
-	class Edge {
+	class Edge implements Comparable<Edge> {
 		int index;
 		int cost;
 		Edge(int index, int cost) {
 			this.index =index;
 			this.cost =cost;
+		}
+
+		@Override
+		public int compareTo(Edge e) {					//가중치가 적은 순으로 priorityQueue에 정렬하기 위해
+			return this.cost -e.cost;
 		}
 	}
 

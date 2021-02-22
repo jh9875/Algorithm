@@ -10,6 +10,9 @@ Java Algorithm and Data Structure Code
 
 ## Algorithm
 
+- **Etc**
+  - [Bitmask](src/algorithm/etc/bitmask)
+  
 - **Graphs**
   - [Breadth-First Search](src/algorithm/graphs/breadth-first-search)
   - [Depth-First Search](src/algorithm/graphs/depth-first-search)
